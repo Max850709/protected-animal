@@ -14,7 +14,7 @@ using namespace std;
 
 class animal{
 public:
-    animal();
+    animal();//
     void add(string s, int a);
     void update(string s1, int a1);
     void display();
