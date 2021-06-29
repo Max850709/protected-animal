@@ -16,7 +16,7 @@ int main(int argc, const char * argv[]) {
     
     
     while(1){
-        cin >> ch;
+        cin >> ch;//
         cin.get();
         if(ch=='a'){
             getline(cin,ani);
