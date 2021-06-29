@@ -17,7 +17,7 @@ animal::animal(){
     endanger=0;
 }
 void animal::add(string s, int a){
-    ani[type]=s;
+    ani[type]=s;//
     num[type]=a;
     type++;
     if(a<1000){
